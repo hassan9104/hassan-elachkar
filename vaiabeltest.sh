@@ -1,0 +1,2 @@
+NAMN="hassan"
+echo $NAMN

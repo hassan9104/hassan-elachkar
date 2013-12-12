@@ -1,0 +1,6 @@
+#!/bin/bash
+declare Dist="Ubuntu"
+echo din dist är $Dist
+unset Dist
+echo "va e $Dist"
+exit 0
